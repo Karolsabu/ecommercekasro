@@ -1,0 +1,54 @@
+#t1 {
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+#t1:hover {
+  transform: scale(0.9);
+}
+
+#t2 {
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+#t2:hover {
+  transform: scale(1.2);
+  color: orangered;
+}
+#t3 {
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+#t3:hover {
+  transform: scale(0.9);
+}
+
+#t4 {
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+#t4:hover {
+  transform: scaleX(-1);
+  color: orangered;
+}
+
+#t5 {
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+#t5:hover {
+  transform: scale(0.9);
+  opacity: 0.5;
+}
+
+#t6 {
+  transition: transform 0.7s ease-in-out;
+  cursor: pointer;
+}
+/* #t6:hover {
+  /* transform: rotate(30deg); */
+/* } */ 

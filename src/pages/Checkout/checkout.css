@@ -1,0 +1,28 @@
+.checkout__heading__style {
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+}
+
+.card__style__Wrapper {
+  margin-top: 100px;
+  border: none;
+}
+
+.checkout_wrapper {
+  margin-bottom: 100px;
+}
+.checkout__dropwon__Wrapper {
+  display: flex;
+}
+@media only screen and (max-width: 600px) {
+  .checkout__form__wrapper {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .checkout__form__wrapper {
+    margin-bottom: 20px;
+  }
+}
